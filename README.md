@@ -16,3 +16,7 @@ Project ini dalam melakukan analisis sentimen melakukan beberapa tahapan yang di
    Tokenize(nltk), Remove stopwords (nltk,stopword-id,stopwords_twitter), Stemmer(Sastrawi), using word with >3 kata
 3. Classification Sentimen (using model pre-trained indonesia-bert-sentiment-classification)
 4. Visualization (using matplotlib, seaborn, wordcloud)
+
+![Sentiment Distribution](img\Sentiment_distribution.png)
+
+![Sentiment Distribution](img\worldcloud_neutral.png)
