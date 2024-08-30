@@ -17,6 +17,6 @@ Project ini dalam melakukan analisis sentimen melakukan beberapa tahapan yang di
 3. Classification Sentimen (using model pre-trained indonesia-bert-sentiment-classification)
 4. Visualization (using matplotlib, seaborn, wordcloud)
 
-![Sentiment Distribution](https://github.com/Ribhanhadyan/Sentiment-Analysis-Megatrusht/blob/main/img/Sentiment_distribution.png)
+![Sentiment Distribution](img/Sentiment_distribution.png)
 
-![Sentiment Distribution](img\worldcloud_neutral.png)
+![Sentiment Distribution](img/worldcloud_neutral.png)
